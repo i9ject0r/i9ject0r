@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm i9ject0r</h1>
-<h3 align="center">Back End Developer | Distro Hopper 🐧</h3>
+<h3 align="center">Back End Developer | Security Research 🐧</h3>
 
 
 
